@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi Buddy 👋, I'm Mohamed Bahir Hussain</h1>
-<h3 align="center">A passionate Full Stack Developer | Java Developer</h3>
+<h3 align="center">A passionate Full Stack Developer | Application Programmer | API Function Developer | AI Integration & Developer | Business Analyst | [ FinTech | HealthCare | Travel ] | Research and Development | Content Writer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainmbh&label=Profile%20views&color=0e75b6&style=flat" alt="hussainmbh" /> </p>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mbahirh624@gmail.com / +94 768816878**
 
-- 📄 Check my CV (https://drive.google.com/uc?export=download&id=1Fp743xtliG454TEdvoe3unRlpZwe2h1M)
+- 📄 Check my CV (https://drive.google.com/uc?export=download&id=18XSPJHLXWp0k3kKq6dw-Rv8WEx-jfISN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
